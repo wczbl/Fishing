@@ -1,2 +1,2 @@
 # Fishing
-Bitmap rotation test project
+After finishing Retribution, I wanted to learn more things, so I decided to solely make a project focusing on something I might use in the future. In this case, I think rotating bitmaps will be very useful in the future. In this demo, you will see a cuttle(which lies in the middle) and a Yellowboy fish(that spawns fish after getting hit by the Hungry Fish). You can left click to manually place fish.
